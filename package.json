@@ -1,12 +1,12 @@
 {
   "name": "bot",
   "version": "1.0.0",
-  "description": "The Bot!",
+  "description": "Discord.js bot example by Eggy115",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Name",
+  "author": "Eggy115",
   "license": "ISC",
   "dependencies": {
     "avconv": "^3.1.0",
