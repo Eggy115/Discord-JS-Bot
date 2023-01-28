@@ -21,7 +21,7 @@ const helpembed = new Discord.MessageEmbed()
     .setTitle('__**Help**__')
     .setDescription("Bot is bot.\n\nCommands: `!help`")
     .setTimestamp()
-    .setFooter('Bot ©️2023', 'IMAGE LINK EHRE');
+    .setFooter('Eggy115 Discord.JS Bot Example', 'IMAGE LINK EHRE');
 
 // Normal commands
 
