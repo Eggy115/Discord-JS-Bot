@@ -5,7 +5,7 @@ Discord.JS Bot Example
 - Requires Node.JS
 - Requires some kind of terminal
 ## Installation
-Install Node.JS with NPM  
+Install Node.JS and NPM    
 To install use    
 ```
 git clone https://github.com/welbornprod/Discord-JS-Bot
