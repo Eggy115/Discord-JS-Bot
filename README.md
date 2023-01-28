@@ -11,5 +11,8 @@ To install use
 git clone https://github.com/welbornprod/Discord-JS-Bot
 ```
 ## Usage
-To run use  
-```node .```
+First edit index.js and add your discord bot token.   
+Then open powershell or equivalent terminal in directory and run  
+```
+node .
+```
