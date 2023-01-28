@@ -2,7 +2,7 @@
 
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = 'Njk1OTEyMDk0OTA1Nzk0NjEy.GZHqg_.teTZ4gWh5mwFoMKCWeTXlo-9BB1jvUL3LlKMBA';
+const token = '';
 
 bot.on('message', message => {
     if(message.channel.type === "dm") return console.log(`${message.author.username} (In DM): ${message.content}`);
