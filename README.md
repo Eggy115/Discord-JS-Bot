@@ -8,7 +8,7 @@ Discord.JS Bot Example
 Install Node.JS and NPM    
 To install use    
 ```
-git clone https://github.com/welbornprod/Discord-JS-Bot
+git clone https://github.com/Eggy115/Discord-JS-Bot
 ```
 ## Usage
 First edit index.js and add your discord bot token.   
