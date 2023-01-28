@@ -1,0 +1,20 @@
+{
+  "name": "eggy-bot",
+  "version": "1.0.0",
+  "description": "The EggyBot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eggy115",
+  "license": "ISC",
+  "dependencies": {
+    "avconv": "^3.1.0",
+    "discord.js": "^12.1.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.4.5",
+    "ytsearcher": "^1.2.3"
+  }
+}
