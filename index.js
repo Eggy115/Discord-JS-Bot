@@ -2,7 +2,7 @@
 
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = '';
+const token = 'TOKEN';
 
 bot.on('message', message => {
     if(message.channel.type === "dm") return console.log(`${message.author.username} (In DM): ${message.content}`);
@@ -10,8 +10,8 @@ bot.on('message', message => {
 });
 
 bot.on('ready', () =>{
-    console.log('The EggyBot is Now Online!')
-    bot.user.setActivity("with EggyBot 2");
+    console.log('The Bot is Now Online!')
+    bot.user.setActivity("on Discord");
 })
 
 // Embeds
@@ -19,9 +19,9 @@ bot.on('ready', () =>{
 const helpembed = new Discord.MessageEmbed()
     .setColor('#0099ff') 
     .setTitle('__**Help**__')
-    .setDescription("EggyBot is EggyBot.\n\nCommands: `!help`")
+    .setDescription("Bot is bot.\n\nCommands: `!help`")
     .setTimestamp()
-    .setFooter('EggyBot ©️2022', 'https://media.discordapp.net/attachments/1043545743845236806/1043548343852355665/block.png?width=584&height=584');
+    .setFooter('Bot ©️2023', 'IMAGE LINK EHRE');
 
 // Normal commands
 
